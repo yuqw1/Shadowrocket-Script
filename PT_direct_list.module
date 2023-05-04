@@ -1,4 +1,5 @@
 #!name=pt KEYWORD_list
+[Rule]
 DOMAIN-KEYWORD,chdbits.co,DIRECT
 DOMAIN-KEYWORD,kp.m-team.cc,DIRECT
 DOMAIN-KEYWORD,hdsky.me,DIRECT
